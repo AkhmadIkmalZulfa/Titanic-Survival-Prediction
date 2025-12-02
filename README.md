@@ -8,10 +8,16 @@ Tragedi RMS Titanic (1912) menyisakan banyak misteri tentang siapa yang selamat 
 Dalam project ini, saya membangun pipeline analisis mulai dari:
 
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ Feature engineering & categorical encoding
+
 ✔ Handling missing values
+
 ✔ Model training & evaluation
+
 ✔ Cross-validation menggunakan beberapa algoritma
+
 ✔ Menemukan model terbaik untuk memprediksi Survival
+
 
 Dataset: Titanic - Machine Learning from Disaster (Kaggle)
